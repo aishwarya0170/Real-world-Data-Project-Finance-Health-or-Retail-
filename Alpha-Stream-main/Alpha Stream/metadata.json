@@ -1,0 +1,8 @@
+{
+  "name": "AlphaStream: Finance Data Science Pro",
+  "description": "Professional Stock Market Analysis & Prediction Project with EDA, visualizations, and predictive modeling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
